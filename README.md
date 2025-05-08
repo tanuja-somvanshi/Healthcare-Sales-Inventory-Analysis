@@ -3,7 +3,10 @@
 
 This project showcases a full-stack data analysis workflow combining **SQL** and **Excel** for a healthcare company. The goal is to extract meaningful business insights across **sales**, **inventory**, and **product performance**.
 
-![Dashboard Preview](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/dashboard_preview.png)
+# Dashboard Preview 
+![Image](https://github.com/user-attachments/assets/16ac2e53-4be7-4e36-85fa-b85913f1df84)
+
+![Image](https://github.com/user-attachments/assets/caf759b0-de5a-46a4-b365-1a09c72ce358)
 
 ---
 
@@ -98,7 +101,9 @@ WHERE StockLevel < ReorderLevel;
 
 ## 🏁 Output Preview
 
-![Pivot Preview](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/pivot_preview.png)
+![Image](https://github.com/user-attachments/assets/d9f8f289-9797-4745-840c-dd90c0156494)
+
+![Image](https://github.com/user-attachments/assets/aebaaec3-643c-438b-a018-1e61557403c0)
 
 ---
 
@@ -126,9 +131,8 @@ WHERE StockLevel < ReorderLevel;
 
 ## 📞 Contact
 
-Made with ❤️ by [Your Name]  
-📧 Email: your.email@example.com  
-🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tanuja-somvanshi/)
+Made with ❤️ by Tanuja Somvanshi  
+🌐 LinkedIn: [linkedin.com/in/tanuja-somvanshi/](https://www.linkedin.com/in/tanuja-somvanshi/)
 
 ---
 
